@@ -8,3 +8,54 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  padding: 8px 8px;
+  font-family: Sanchez, serif;
+  font-size: 18px;
+  font-weight: 800;
+  color: #555;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.6);
+  border-radius: 3px;
+  line-height: 24px;
+  color: black;
+}
+
+.legend k {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 0 8px 0 0;
+  opacity: 0.7;
+}
+
+.legend span {
+  position: relative;
+}
+
+.maglt2{
+  border-style: solid;
+  border-color: black;
+  background-color: #ffffb2;
+}
+.maglt3{
+  border-style: solid;
+  border-color: black;
+  background-color: #fecc5c;
+}
+.maglt4{
+  border-style: solid;
+  border-color: black;
+  background-color: #fd8d3c;
+}
+.maglt5{
+  border-style: solid;
+  border-color: black;
+  background-color: #f03b20;
+}
+.maggt5{
+  border-style: solid;
+  border-color: black;
+  background-color: #bd0026;
+}
