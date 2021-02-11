@@ -9,8 +9,8 @@ Users can toggle between different map selections, while also clicking into each
 - Earthquake magnitude 
 - Location 
 
-![dark_map](images/dark_map.jpg)
-![grayscale_map](images/grayscale_map.jpg)
-![outdoors_map](images/outdoors_map.jpg)
-![sat_map](images/sat_map.jpg)
-![removequake_map](images/remove_earthquake.jpg)
+![dark_map](dark_map.png)
+![grayscale_map](grayscale_map.png)
+![outdoors_map](outdoors_map.png)
+![sat_map](sat_map.png)
+![removequake_map](remove_earthquake.png)
